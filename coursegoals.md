@@ -7,3 +7,4 @@
 - To advance my understanding of the topics taught in the program
 - To successfully build a functioning website of my own
 - To get employed in a position that best suites my interests
+- To become an efficient agile user
